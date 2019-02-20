@@ -10,3 +10,5 @@ def oxford_comma(array)
 end
 
 array = ["mera", "rayna", "denise", "frank"]
+
+oxford_comma(array)
