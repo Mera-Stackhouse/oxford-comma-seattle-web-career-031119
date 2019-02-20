@@ -11,4 +11,4 @@ end
 
 array = ["mera", "rayna", "denise", "frank"]
 
-oxford_comma(array)
+puts oxford_comma(array)
