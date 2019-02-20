@@ -8,3 +8,5 @@ def oxford_comma(array)
     array.join(", ")
   end
 end
+
+array = ["mera", "rayna", "denise", "frank"]
